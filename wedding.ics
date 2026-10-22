@@ -7,11 +7,18 @@ X-WR-CALNAME:Taylor & Samvedh Wedding
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:20261206-taylor-samvedh-wedding@ammisetti.wedding
-DTSTAMP:20260820T235414Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-SUMMARY:Taylor & Samvedh - Wedding
-LOCATION:Charlotte, NC
-DESCRIPTION:December 6, 2026 - Charlotte, NC. Details to follow.
+SEQUENCE:1
+DTSTAMP:20261022T011932Z
+DTSTART:20261206T170000Z
+DTEND:20261206T220000Z
+SUMMARY:Taylor & Samvedh Wedding
+LOCATION:Lake Pointe Hall\, 4300 Weddington Rd\, Charlotte\, NC 28270
+GEO:35.0630933;-80.743397
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="4300 Weddington Rd, Charlo
+ tte, NC 28270";X-APPLE-RADIUS=100;X-TITLE="Lake Pointe Hall":geo:35.063093
+ 3,-80.743397
+DESCRIPTION:Lake Pointe Hall is inside Colonel Francis Beatty Park. https:/
+ /ammisetti.wedding
+URL:https://ammisetti.wedding
 END:VEVENT
 END:VCALENDAR
